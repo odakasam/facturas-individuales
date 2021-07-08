@@ -1,0 +1,48 @@
+C:\Users\Paulo Acevedo\source\repos\Facturas Individuales\Facturas Individuales\bin\Debug\netcoreapp3.1\Facturas Individuales.exe
+C:\Users\Paulo Acevedo\source\repos\Facturas Individuales\Facturas Individuales\bin\Debug\netcoreapp3.1\Facturas Individuales.deps.json
+C:\Users\Paulo Acevedo\source\repos\Facturas Individuales\Facturas Individuales\bin\Debug\netcoreapp3.1\Facturas Individuales.runtimeconfig.json
+C:\Users\Paulo Acevedo\source\repos\Facturas Individuales\Facturas Individuales\bin\Debug\netcoreapp3.1\Facturas Individuales.runtimeconfig.dev.json
+C:\Users\Paulo Acevedo\source\repos\Facturas Individuales\Facturas Individuales\bin\Debug\netcoreapp3.1\Facturas Individuales.dll
+C:\Users\Paulo Acevedo\source\repos\Facturas Individuales\Facturas Individuales\bin\Debug\netcoreapp3.1\Facturas Individuales.pdb
+C:\Users\Paulo Acevedo\source\repos\Facturas Individuales\Facturas Individuales\obj\Debug\netcoreapp3.1\Facturas Individuales.csprojAssemblyReference.cache
+C:\Users\Paulo Acevedo\source\repos\Facturas Individuales\Facturas Individuales\obj\Debug\netcoreapp3.1\Facturas_Individuales.ingresoFactura.resources
+C:\Users\Paulo Acevedo\source\repos\Facturas Individuales\Facturas Individuales\obj\Debug\netcoreapp3.1\Facturas_Individuales.Properties.Resources.resources
+C:\Users\Paulo Acevedo\source\repos\Facturas Individuales\Facturas Individuales\obj\Debug\netcoreapp3.1\Facturas Individuales.csproj.GenerateResource.cache
+C:\Users\Paulo Acevedo\source\repos\Facturas Individuales\Facturas Individuales\obj\Debug\netcoreapp3.1\Facturas Individuales.AssemblyInfoInputs.cache
+C:\Users\Paulo Acevedo\source\repos\Facturas Individuales\Facturas Individuales\obj\Debug\netcoreapp3.1\Facturas Individuales.AssemblyInfo.cs
+C:\Users\Paulo Acevedo\source\repos\Facturas Individuales\Facturas Individuales\obj\Debug\netcoreapp3.1\Facturas Individuales.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Acevedo\source\repos\Facturas Individuales\Facturas Individuales\obj\Debug\netcoreapp3.1\Facturas Individuales.dll
+C:\Users\Paulo Acevedo\source\repos\Facturas Individuales\Facturas Individuales\obj\Debug\netcoreapp3.1\Facturas Individuales.pdb
+C:\Users\Paulo Acevedo\source\repos\Facturas Individuales\Facturas Individuales\obj\Debug\netcoreapp3.1\Facturas Individuales.genruntimeconfig.cache
+C:\Users\bernardo.lisboa\Downloads\Facturas Individuales\Facturas Individuales\Facturas Individuales\bin\Debug\netcoreapp3.1\Facturas Individuales.exe
+C:\Users\bernardo.lisboa\Downloads\Facturas Individuales\Facturas Individuales\Facturas Individuales\bin\Debug\netcoreapp3.1\Facturas Individuales.deps.json
+C:\Users\bernardo.lisboa\Downloads\Facturas Individuales\Facturas Individuales\Facturas Individuales\bin\Debug\netcoreapp3.1\Facturas Individuales.runtimeconfig.json
+C:\Users\bernardo.lisboa\Downloads\Facturas Individuales\Facturas Individuales\Facturas Individuales\bin\Debug\netcoreapp3.1\Facturas Individuales.runtimeconfig.dev.json
+C:\Users\bernardo.lisboa\Downloads\Facturas Individuales\Facturas Individuales\Facturas Individuales\bin\Debug\netcoreapp3.1\Facturas Individuales.dll
+C:\Users\bernardo.lisboa\Downloads\Facturas Individuales\Facturas Individuales\Facturas Individuales\bin\Debug\netcoreapp3.1\Facturas Individuales.pdb
+C:\Users\bernardo.lisboa\Downloads\Facturas Individuales\Facturas Individuales\Facturas Individuales\obj\Debug\netcoreapp3.1\Facturas Individuales.csprojAssemblyReference.cache
+C:\Users\bernardo.lisboa\Downloads\Facturas Individuales\Facturas Individuales\Facturas Individuales\obj\Debug\netcoreapp3.1\Facturas_Individuales.ingresoFactura.resources
+C:\Users\bernardo.lisboa\Downloads\Facturas Individuales\Facturas Individuales\Facturas Individuales\obj\Debug\netcoreapp3.1\Facturas_Individuales.Properties.Resources.resources
+C:\Users\bernardo.lisboa\Downloads\Facturas Individuales\Facturas Individuales\Facturas Individuales\obj\Debug\netcoreapp3.1\Facturas Individuales.csproj.GenerateResource.cache
+C:\Users\bernardo.lisboa\Downloads\Facturas Individuales\Facturas Individuales\Facturas Individuales\obj\Debug\netcoreapp3.1\Facturas Individuales.AssemblyInfoInputs.cache
+C:\Users\bernardo.lisboa\Downloads\Facturas Individuales\Facturas Individuales\Facturas Individuales\obj\Debug\netcoreapp3.1\Facturas Individuales.AssemblyInfo.cs
+C:\Users\bernardo.lisboa\Downloads\Facturas Individuales\Facturas Individuales\Facturas Individuales\obj\Debug\netcoreapp3.1\Facturas Individuales.csproj.CoreCompileInputs.cache
+C:\Users\bernardo.lisboa\Downloads\Facturas Individuales\Facturas Individuales\Facturas Individuales\obj\Debug\netcoreapp3.1\Facturas Individuales.dll
+C:\Users\bernardo.lisboa\Downloads\Facturas Individuales\Facturas Individuales\Facturas Individuales\obj\Debug\netcoreapp3.1\Facturas Individuales.pdb
+C:\Users\bernardo.lisboa\Downloads\Facturas Individuales\Facturas Individuales\Facturas Individuales\obj\Debug\netcoreapp3.1\Facturas Individuales.genruntimeconfig.cache
+C:\Users\Paulo Acevedo\Desktop\AIEP\Facturas Individuales-modificado\Facturas Individuales\Facturas Individuales\bin\Debug\netcoreapp3.1\Facturas Individuales.exe
+C:\Users\Paulo Acevedo\Desktop\AIEP\Facturas Individuales-modificado\Facturas Individuales\Facturas Individuales\bin\Debug\netcoreapp3.1\Facturas Individuales.deps.json
+C:\Users\Paulo Acevedo\Desktop\AIEP\Facturas Individuales-modificado\Facturas Individuales\Facturas Individuales\bin\Debug\netcoreapp3.1\Facturas Individuales.runtimeconfig.json
+C:\Users\Paulo Acevedo\Desktop\AIEP\Facturas Individuales-modificado\Facturas Individuales\Facturas Individuales\bin\Debug\netcoreapp3.1\Facturas Individuales.runtimeconfig.dev.json
+C:\Users\Paulo Acevedo\Desktop\AIEP\Facturas Individuales-modificado\Facturas Individuales\Facturas Individuales\bin\Debug\netcoreapp3.1\Facturas Individuales.dll
+C:\Users\Paulo Acevedo\Desktop\AIEP\Facturas Individuales-modificado\Facturas Individuales\Facturas Individuales\bin\Debug\netcoreapp3.1\Facturas Individuales.pdb
+C:\Users\Paulo Acevedo\Desktop\AIEP\Facturas Individuales-modificado\Facturas Individuales\Facturas Individuales\obj\Debug\netcoreapp3.1\Facturas Individuales.csprojAssemblyReference.cache
+C:\Users\Paulo Acevedo\Desktop\AIEP\Facturas Individuales-modificado\Facturas Individuales\Facturas Individuales\obj\Debug\netcoreapp3.1\Facturas_Individuales.ingresoFactura.resources
+C:\Users\Paulo Acevedo\Desktop\AIEP\Facturas Individuales-modificado\Facturas Individuales\Facturas Individuales\obj\Debug\netcoreapp3.1\Facturas_Individuales.Properties.Resources.resources
+C:\Users\Paulo Acevedo\Desktop\AIEP\Facturas Individuales-modificado\Facturas Individuales\Facturas Individuales\obj\Debug\netcoreapp3.1\Facturas Individuales.csproj.GenerateResource.cache
+C:\Users\Paulo Acevedo\Desktop\AIEP\Facturas Individuales-modificado\Facturas Individuales\Facturas Individuales\obj\Debug\netcoreapp3.1\Facturas Individuales.AssemblyInfoInputs.cache
+C:\Users\Paulo Acevedo\Desktop\AIEP\Facturas Individuales-modificado\Facturas Individuales\Facturas Individuales\obj\Debug\netcoreapp3.1\Facturas Individuales.AssemblyInfo.cs
+C:\Users\Paulo Acevedo\Desktop\AIEP\Facturas Individuales-modificado\Facturas Individuales\Facturas Individuales\obj\Debug\netcoreapp3.1\Facturas Individuales.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Acevedo\Desktop\AIEP\Facturas Individuales-modificado\Facturas Individuales\Facturas Individuales\obj\Debug\netcoreapp3.1\Facturas Individuales.dll
+C:\Users\Paulo Acevedo\Desktop\AIEP\Facturas Individuales-modificado\Facturas Individuales\Facturas Individuales\obj\Debug\netcoreapp3.1\Facturas Individuales.pdb
+C:\Users\Paulo Acevedo\Desktop\AIEP\Facturas Individuales-modificado\Facturas Individuales\Facturas Individuales\obj\Debug\netcoreapp3.1\Facturas Individuales.genruntimeconfig.cache
